@@ -1,0 +1,10 @@
+name: HungerBoard
+author: cheaterSK
+version: 1.3
+main: cz.hostnow.cheaterSK.HungerBoard
+api-version: 1.15
+
+softdepend: [PlaceholderAPI]
+
+commands:
+  hbreload:

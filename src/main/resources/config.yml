@@ -1,0 +1,10 @@
+msg:
+  perm: "&4You dont have permissions for this"
+  reload: "&aConfig was reloaded successfully!"
+
+board:
+  header: "&4Test &aBoard"
+  body:
+    - "Test"
+    - "Test 2"
+    - "&aTest 3"

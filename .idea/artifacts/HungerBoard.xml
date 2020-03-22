@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HungerBoard">
+    <output-path>D:/Users/cheaterSK/Desktop/</output-path>
+    <root id="archive" name="HungerBoard.jar">
+      <element id="module-output" name="HungerBoard" />
+    </root>
+  </artifact>
+</component>
